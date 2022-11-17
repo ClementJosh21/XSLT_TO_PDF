@@ -1,0 +1,3203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">98.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2940.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">147000.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.029E7</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">9.261E8</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.01871E11</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.324323E13</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.9864845E15</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.37702365E17</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">6.416344935E19</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.34743243635E22</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.099094603605E24</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">7.7477365090125E26</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.0918888574333747E29</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">6.066477686556787E31</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.8806080828326038E34</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">6.206006673347593E36</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.1721023356716578E39</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">8.036778641985134E41</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.1343436703742023E44</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.285080904853423E47</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">5.525847890869719E49</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.4866315508913735E52</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.1687168289189456E55</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">5.726712461702834E57</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.9206233554684448E60</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.5479303783982758E63</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">8.513617081190518E65</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">4.852761736278595E68</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.8631294244043713E71</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.7465089488866665E74</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.1003006377986E77</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">7.1519541456909E79</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">4.7918092776129025E82</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.306348401552903E85</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.3475073651025607E88</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.7136803765248693E91</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.285260282393652E94</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">9.89650417443112E96</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">7.818238297800585E99</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">6.332773021218473E102</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">5.256201607611333E105</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">4.467771366469633E108</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.886961088828581E111</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.4593953690574373E114</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.148049785842268E117</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.9276863008333097E120</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.781301985791644E123</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.6978629262178945E126</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.6708842969557155E129</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.697593139925273E132</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.778520934123031E135</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.9174469808291826E138</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.121668269487225E141</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.402618413741075E144</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.7769064392525935E147</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">4.2679042763554306E150</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">4.908089917808746E153</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">5.7424652038362324E156</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">6.8335335925651174E159</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">8.268575647003792E162</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.0170348045814664E166</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.2712935057268331E169</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.614542752273078E172</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.0827601504322707E175</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.728415797066275E178</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.6287930100981454E181</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">4.898870563632496E184</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">6.711452672176519E187</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">9.328919214325361E190</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.3153776092198759E194</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.8809899811844225E197</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.7274354727174127E200</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">4.009330144894597E203</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">5.973901915892949E206</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">9.020591892998354E209</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.380150559628748E213</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.1392333674245597E216</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.358596386856559E219</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">5.3401682551019286E222</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">8.597670890714105E225</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.4014203551863993E229</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.3123435860575588E232</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.861613788716123E235</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">6.526127302930248E238</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.1159677688010723E242</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.9306242400258552E245</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.3785924200452464E248</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">5.980108583480087E251</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.0704394364429356E255</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.9374953799617138E258</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.545616545329936E261</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">6.5593906088603805E264</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.2266060438568912E268</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.3182854228895243E271</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">4.427925157718991E274</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">8.545895554397654E277</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.6664496331075424E281</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">3.282905777221859E284</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">6.532982496671499E287</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.3131294818309714E291</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.665652848116872E294</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">5.464588338639587E297</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">1.1311697860983946E301</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">2.3641448529456446E304</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">4.988345639715309E307</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Empire Burlesque</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bob Dylan</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">USA</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">Columbia</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">0.0</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1985</YEAR>
+	</result>
+	<result>
+		<TITLE dataType="STRING" columnName="title">Hide your heart</TITLE>
+		<ARTIST dataType="STRING" columnName="artist">Bonnie Tyler</ARTIST>
+		<COUNTRY dataType="STRING" columnName="country">UK</COUNTRY>
+		<COMPANY dataType="STRING" columnName="company">CBS Records</COMPANY>
+		<PRICE dataType="DECIMAL" columnName="price">Infinity</PRICE>
+		<YEAR dataType="NUMBER" columnName="year">1988</YEAR>
+	</result>
+</results>

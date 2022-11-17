@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+	<ROW>
+		<ID dataType="NUMBER" columnName="ID">1</ID>
+		<NAME dataType="STRING" columnName="NAME">Amy Jackson</NAME>
+		<GENDER dataType="STRING" columnName="GENDER">F</GENDER>
+		<MARK dataType="STRING" columnName="MARK">1.0</MARK>
+	</ROW>
+	<ROW>
+		<ID dataType="NUMBER" columnName="ID">2</ID>
+		<NAME dataType="STRING" columnName="NAME">John</NAME>
+		<GENDER dataType="STRING" columnName="GENDER">M</GENDER>
+		<MARK dataType="STRING" columnName="MARK">2.0</MARK>
+	</ROW>
+	<ROW>
+		<ID dataType="NUMBER" columnName="ID">3</ID>
+		<NAME dataType="STRING" columnName="NAME">Arjun</NAME>
+		<GENDER dataType="STRING" columnName="GENDER">M</GENDER>
+		<MARK dataType="STRING" columnName="MARK">3.0</MARK>
+	</ROW>
+</ROOT>
